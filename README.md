@@ -30,9 +30,6 @@ Feel free to explore the certificates and project files in the respective direct
 
 Certificates for each completed course are provided in the "Certificates" directory. These certificates serve as tangible proof of your accomplishment in mastering the skills covered in the IBM Professional Data Analytics Course.
 
-## About Me
-
-Include a brief introduction about yourself, your background, and your journey through the Data Analytics Traineeship at MedTourEasy. Highlight any significant achievements or challenges you faced during the training.
 
 ## Connect with Me
 ![LinkedIn](https://www.linkedin.com/in/sourabh-sahu-9055041b4)
