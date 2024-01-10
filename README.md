@@ -1,6 +1,6 @@
 # IBM Professional Data Analytics Course Certificates Repository
+![Professional_Certificate_-_Data_Analyst](https://github.com/sourabh281/MedTourEasy-Traineeship/assets/69448489/bde31739-2cb0-45db-b73b-e878b249a1f8)
 
-![IBM Professional Data Analytics Course](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.credly.com%2Forg%2Fibm%2Fbadge%2Fdata-analyst-professional-certificate&psig=AOvVaw1O-R8HdWseiO2G5t1wMsQa&ust=1704993765493000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMj1kfOq04MDFQAAAAAdAAAAABAD)
 
 ## Overview
 
